@@ -1,6 +1,9 @@
 # Chat with Your PDF
 
 This application allows users to interact with the text content of their PDF documents through a conversational interface. Users can ask questions related to the content of the uploaded PDF files, and the application will provide relevant answers using a conversational retrieval chain.
+## Video :
+
+Check out the video [here](https://www.youtube.com/watch?v=W2_z6CTmme8) to learn how to use the application.
 
 ## Features:
 
